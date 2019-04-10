@@ -1,0 +1,6 @@
+*.log
+/.idea
+/.htaccess
+
+creativ_time_sheet.xlsx
+wp-config.php
